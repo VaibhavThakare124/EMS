@@ -1,31 +1,25 @@
-# Employee Management System
+# 📋 Employee Management System (React Only)
 
-The **Employee Management System** is a project designed to manage employee records efficiently. It allows users to perform operations such as adding, updating, deleting, and viewing employee details. This system is useful for HR departments, organizations, and admins who need a streamlined way to manage staff data.
+This is a **frontend-only Employee Management System** built using **React**.  
+Currently, it does **not include any backend**, and all data handling is done locally (state/props/temp arrays).
 
----
+## ✅ Features (So Far)
+- Add Employee (UI Only)
+- Edit Employee (if implemented)
+- Delete Employee (if implemented)
+- Employee List/Table
+- Responsive layout (if applicable)
+- Component-based structure
 
-## 🚀 Features
+## 🚀 Tech Stack
+- React
+- JavaScript (ES6+)
+- CSS / Tailwind / Styled-components (update based on your project)
+- React Hooks (useState, useEffect, etc.)
 
-- Add new employee records  
-- Update existing employee details  
-- Delete employee data  
-- View employee list/information  
-- Search/filter employees  
-- User-friendly interface  
+## 📦 Installation & Setup
 
----
-
-## 🛠️ Technologies Used
-
-(Replace these based on your project)
-
-- Frontend: HTML, CSS, JavaScript / React / etc.  
-- Backend: Node.js / Python / PHP / Java / etc.  
-- Database: MySQL / MongoDB / etc.  
-- Tools: Git, VS Code
-
----
-
-## 📁 Project Setup
-
-1. Clone the repository:
+Clone this repository:
+```bash
+git clone <your-repo-link>
+cd employee-management-system
